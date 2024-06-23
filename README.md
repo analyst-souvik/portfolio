@@ -4,7 +4,6 @@
 - **Phone:** +91 9082292185
 - **Email:** [souvik.biswas@outlook.in](mailto:souvik.biswas@outlook.in)
 - **LinkedIn:** [linkedin.com/in/analyst-souvik](https://linkedin.com/in/analyst-souvik)
-- **Github:** 
 - **Location:** Mumbai, MH 401105
 
 ## Profile Summary:
