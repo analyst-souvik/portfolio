@@ -10,7 +10,7 @@
 Dynamic Data/Business Analyst with six-month internship experience at AI Variant, complemented by a degree in Computer Science Engineering. Ready to bring enthusiasm, adaptability, and a fresh perspective to any dynamic team.
 
 ## Skills:
-- **Technical Skills:** ETL, Data Visualization, Dashboard Creation, Identifying Issues and Trends, Business Insights
+- **Technical Skills:** ETL, Data Visualization, Dashboard Creation, Basic Python and Statistics
 - **Soft Skills:** Communication, Critical Thinking, Presentation Skills, Project Management, Requirements Gathering
 - **Tools & Technologies:** Advanced Excel, Power Query, Power BI, Tableau, MySQL
 
