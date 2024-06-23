@@ -38,7 +38,7 @@ To enhance risk management and lending strategies by providing detailed insights
 - Improved customer segmentation strategies by providing detailed demographic insights.
 
 **Tools Used:**
-- Data Cleaning using Power Query
+- ETL using Power Query
 - Excel
 - Power BI
 - SQL
@@ -57,7 +57,7 @@ To improve decision-making by analyzing customer payment behavior and sales tren
 - Provided recommendations for targeted improvements in logistics and delivery processes.
 
 **Tools Used:**
-- Data Cleaning using Power Query
+- ETL using Power Query
 - Tableau
 - Excel
 - SQL
@@ -76,7 +76,7 @@ To improve employee retention strategies by providing insights into attrition ra
 - Provided recommendations for improving employee engagement and satisfaction.
 
 **Tools Used:**
-- Data Cleaning using Power Query
+- ETL using Power Query
 - Tableau
 - SQL
 - Excel
