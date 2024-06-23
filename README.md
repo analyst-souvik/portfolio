@@ -23,7 +23,7 @@ Dynamic Data/Business Analyst with six-month internship experience at AI Variant
 - **Requirements Gathering**
 - **Business Analysis**
 
-## Experience:
+## Work Experience:
 
 **AI Variant**  
 *Data Analyst Intern*  
