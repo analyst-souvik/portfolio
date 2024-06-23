@@ -99,9 +99,9 @@ The analysis helped the company enhance workforce planning and satisfaction by i
 - Coursework: OOPs, Data Structures & Algorithms, Databases, Data Mining, Linux, Computer Networks, Cloud Computing, Artificial Intelligence, Machine Learning, and Image Processing.
 
 ## Certifications/Achievements:
-- Certificate of Internship from AI Variant – 2024
-- Career Essentials in Business Analysis by Microsoft and LinkedIn - 2024
-- Data Analyst Certification from ExcelR – 2023
+- [**Certificate of Internship from AI Variant – 2024**](https://1drv.ms/b/s!AgDHJG8yRh16hE3jrOf4-rO7pKW-?e=xtezvE)
+- [**Career Essentials in Business Analysis by Microsoft and LinkedIn - 2024**](https://www.linkedin.com/learning/certificates/654b80f552c2c98f614c8f0a303168c7d898abd02fe94644cfc284660fb6a87d?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bbe8oWznIQIOFqrufsYGxJQ%3D%3D)
+- [**Data Analyst Certification from ExcelR – 2023**](https://1drv.ms/b/s!AgDHJG8yRh16hE53k_W1rbq0WXcF?e=obImGU)
 - Conference Paper: [**Intrusion Detection in IoT Systems Using Ensemble Machine Learning Techniques**](https://ieeexplore.ieee.org/document/10270505)
 
   Published in: 2023 IEEE 4th Annual Flagship India Council International Subsections Conference.
