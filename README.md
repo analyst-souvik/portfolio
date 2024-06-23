@@ -10,18 +10,9 @@
 Dynamic Data/Business Analyst with six-month internship experience at AI Variant, complemented by a degree in Computer Science Engineering. Ready to bring enthusiasm, adaptability, and a fresh perspective to any dynamic team.
 
 ## Skills:
-- **Data Cleaning, ETL**
-- **Advanced Excel**
-- **Data Warehousing**
-- **Power Pivot, Power Query**
-- **Power BI**
-- **Tableau**
-- **SQL**
-- **Basic Python**
-- **Basic Statistics**
-- **Project Management**
-- **Requirements Gathering**
-- **Business Analysis**
+- **Technical Skills:** ETL, Data Visualization, Dashboard Creation, Identifying Issues and Trends, Business Insights
+- **Soft Skills:** Communication, Critical Thinking, Presentation Skills, Project Management, Requirements Gathering
+- **Tools & Technologies:** Advanced Excel, Power Query, Power BI, Tableau, MySQL
 
 ## Work Experience:
 
@@ -96,7 +87,7 @@ The analysis helped the company enhance workforce planning and satisfaction by i
 **Maulana Abul Kalam Azad University of Technology**  
 *B.Tech (Hons.) Computer Science Engineering*  
 *July 2019 – July 2023, Kolkata - WB*
-- Coursework: OOPs, Data Structures & Algorithms, Databases, Data Mining, Linux, Computer Networks, Cloud Computing, Artificial Intelligence, Machine Learning, and Image Processing.
+- Coursework: Python, Data Modeling, Databases, SQL, Project Management, Linux, Machine Learning and Statistics.
 
 ## Certifications/Achievements:
 - [**Certificate of Internship from AI Variant – 2024**](https://1drv.ms/b/s!AgDHJG8yRh16hE3jrOf4-rO7pKW-?e=xtezvE)
