@@ -19,10 +19,11 @@ Dynamic Data/Business Analyst with six-month internship experience at AI Variant
 **AI Variant**  
 *Data Analyst Intern*  
 *Oct 2023 – April 2024*
-- Collaborated closely with team members to find insights, ensuring data integrity to craft impactful reports and dashboards using Excel, Power BI, Tableau and SQL driving informed decision-making.
-- Expanded proficiency in data presentation skills, data validation, addressing issues related to data redundancy and problem-solving through immersive projects and mentorship.
-- Gained experience in data governance, ensuring compliance and best practices in data handling, and applied data mining techniques for extracting valuable insights.
-- Conducted predictive analysis to anticipate trends and provided recommendations to the organization based on issues identified from KPIs.
+- Collaborated closely with team members to uncover insights, ensuring proper ETL processes were followed to create impactful reports and dashboards using Excel, Power BI, and Tableau.
+- Enhanced proficiency in data presentation skills, data integration and modeling, data normalization, addressing data redundancy issues, and problem-solving through immersive projects and mentorship.
+- Gained experience in Microsoft Fabric, data gateways, data governance, ensuring compliance with best practices in data handling, and using Pivot Tables and running SQL queries to extract valuable insights.
+- Utilized visualizations and forecasting to anticipate trends and provided recommendations to the organization based on issues identified from KPIs driving informed decision-making.
+
 
 ## Projects:
 
