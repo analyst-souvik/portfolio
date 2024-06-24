@@ -1,4 +1,4 @@
-# Data Analyst, Business Intelligence Analyst
+# Data Analyst, BI Analyst
 
 **Contact Information:**
 - **Phone:** +91 9082292185
@@ -105,12 +105,12 @@ The analysis helped the company enhance workforce planning and satisfaction by i
 - [**Career Essentials in Business Analysis by Microsoft and LinkedIn - 2024**](https://www.linkedin.com/learning/certificates/654b80f552c2c98f614c8f0a303168c7d898abd02fe94644cfc284660fb6a87d?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bbe8oWznIQIOFqrufsYGxJQ%3D%3D)
 - [**Data Analyst Certification from ExcelR – 2023**](https://1drv.ms/b/s!AgDHJG8yRh16hE53k_W1rbq0WXcF?e=obImGU)
 
-## Publications
+## Publications:
 1. Bishal Laha; Debopriya Basu; Souvik Biswas; Pallabi Gupta; Bikash Sadhukhan. Intrusion Detection in IoT Systems Using Ensemble Machine Learning Techniques. DOI: [10.1109/INDISCON58499.2023.10270505](https://doi.org/10.1109/INDISCON58499.2023.10270505)
 
 
 ## Additional Information:
 - **Languages:** Bengali, Hindi, English, Japanese (beginner)
 - Contributed to the school community through **volunteer** work.
-- Demonstrated artistic proficiency by achieving good grades on the **Intermediate State Drawing Exam.**
+- Demonstrated **designing proficiency** by achieving good grades on the **Intermediate State Drawing Exam.**
 - Honed leadership & communication by securing **First Place** in **School and College Debate Competitions.**
