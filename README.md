@@ -19,10 +19,11 @@ Analytical BI / Data Analyst with a six-month internship at AI Variant and a deg
 **AI Variant**  
 *Data Analyst Intern*  
 *Oct 2023 – April 2024*
-- Collaborated closely with team members to uncover insights, ensuring proper ETL processes were followed to create impactful reports and dashboards using Excel, Power BI, and Tableau.
-- Enhanced proficiency in data presentation skills, data integration and modeling, data normalization, addressing data redundancy issues, and problem-solving through immersive projects and mentorship.
-- Gained experience in Microsoft Fabric, data gateways, data governance, ensuring compliance with best practices in data handling, and using Pivot Tables and running SQL queries to extract valuable insights.
-- Utilized visualizations and forecasting to anticipate trends and provided recommendations to the organization based on issues identified from KPIs driving informed decision-making.
+- Collaborated with the team to ensure proper ETL processes using Power Query, creating impactful reports and dashboards with Excel, Power BI, and Tableau.
+- Proficient in utilizing Pivot Tables and executing SQL queries to derive meaningful insights. Acquired expertise in Microsoft Fabric, data gateways, and data governance, ensuring adherence to best practices in data management.
+- Enhanced proficiency in data presentation, integration, modeling, normalization, redundancy resolution, and problem-solving through immersive projects and mentorship.
+- Used visualizations and forecasting to anticipate trends, identify issues from KPIs, and provide recommendations for informed decision-making.
+
 
 
 ## Projects:
@@ -101,12 +102,12 @@ The analysis helped the company enhance workforce planning and satisfaction by i
 - Coursework: Python, Data Modeling, Databases, SQL, Project Management, Linux, Machine Learning and Statistics.
 
 ## Certifications/Achievements:
-- [**Certificate of Internship from AI Variant – 2024**](https://1drv.ms/b/s!AgDHJG8yRh16hE3jrOf4-rO7pKW-?e=xtezvE)
-- [**Career Essentials in Business Analysis by Microsoft and LinkedIn - 2024**](https://www.linkedin.com/learning/certificates/654b80f552c2c98f614c8f0a303168c7d898abd02fe94644cfc284660fb6a87d?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bbe8oWznIQIOFqrufsYGxJQ%3D%3D)
-- [**Data Analyst Certification from ExcelR – 2023**](https://1drv.ms/b/s!AgDHJG8yRh16hE53k_W1rbq0WXcF?e=obImGU)
+- [**Certificate of Internship from AI Variant – 2024**](https://drive.google.com/file/d/1sz0YUT5eI4QiA976-5duKFccqmclZsn0/view?usp=drive_link)
+- [**Career Essentials in Business Analysis by Microsoft and LinkedIn - 2024**](https://www.linkedin.com/learning/certificates/654b80f552c2c98f614c8f0a303168c7d898abd02fe94644cfc284660fb6a87d?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BQVYQ5UByTMGBpMxAezMnyg%3D%3D)
+- [**Data Analyst Certification from ExcelR – 2023**](https://drive.google.com/file/d/1QVYRhCkihc_lUEvzU3L0Dq3trGK24eNv/view?usp=drive_link)
 
 ## Publications:
-1. Bishal Laha; Debopriya Basu; Souvik Biswas; Pallabi Gupta; Bikash Sadhukhan. Intrusion Detection in IoT Systems Using Ensemble Machine Learning Techniques. DOI: [10.1109/INDISCON58499.2023.10270505](https://doi.org/10.1109/INDISCON58499.2023.10270505)
+1. Bishal Laha; Debopriya Basu; **Souvik Biswas**; Pallabi Gupta; Bikash Sadhukhan. Intrusion Detection in IoT Systems Using Ensemble Machine Learning Techniques. DOI: [10.1109/INDISCON58499.2023.10270505](https://doi.org/10.1109/INDISCON58499.2023.10270505)
 
 
 ## Additional Information:
