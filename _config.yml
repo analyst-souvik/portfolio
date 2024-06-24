@@ -1,6 +1,6 @@
 title: Souvik Biswas
-# logo: /assets/img/picture.png
-description: text below image
+logo: /assets/img/picture.png
+#description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
 font: sans-serif

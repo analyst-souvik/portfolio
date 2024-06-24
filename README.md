@@ -7,11 +7,11 @@
 - **Location:** Mumbai, MH 401105
 
 ## Profile Summary:
-Dynamic Data/Business Analyst with six-month internship experience at AI Variant, complemented by a degree in Computer Science Engineering. Ready to bring enthusiasm, adaptability, and a fresh perspective to any dynamic team.
+Analytical BI / Data Analyst with a six-month internship at AI Variant and a degree in Computer Science Engineering. Skilled in data visualization, ETL, and dashboard creation, ready to add value to any dynamic team.
 
 ## Skills:
 - **Technical Skills:** ETL, Data Visualization, Dashboard Creation, Basic Python and Statistics
-- **Soft Skills:** Communication, Critical Thinking, Presentation Skills, Project Management, Requirements Gathering
+- **Soft Skills:** Communication, Critical Thinking, Presentation, Project Management, Requirements Gathering
 - **Tools & Technologies:** Advanced Excel, Power Query, Power BI, Tableau, MySQL
 
 ## Work Experience:
@@ -43,6 +43,9 @@ To enhance risk management and lending strategies by providing detailed insights
 - Power BI
 - SQL
 
+![Bank Loan of Customers1](assets/Bank Loan Analytics Pictures/1.jpg)
+![Bank Loan of Customers2](assets/Bank Loan Analytics Pictures/2.jpg)
+
 **Outcome:**
 The insights derived from this project supported strategic decision-making, enabling the company to improve its lending strategies and manage risks more effectively.
 
@@ -61,6 +64,10 @@ To improve decision-making by analyzing customer payment behavior and sales tren
 - Tableau
 - Excel
 - SQL
+
+![Olist Store Analysis1](assets/Olist Store Analysis Pictures/1.jpg)
+![Olist Store Analysis2](assets/Olist Store Analysis Pictures/2.jpg)
+
 
 **Outcome:**
 This project led to enhanced customer satisfaction by identifying areas for improvement in logistics, contributing to better marketing strategies and overall sales performance.
@@ -81,6 +88,9 @@ To improve employee retention strategies by providing insights into attrition ra
 - SQL
 - Excel
 
+![Employee Retention1](assets/HR Analytics Pictures/1.jpg)
+![Employee Retention2](assets/HR Analytics Pictures/2.jpg)
+
 **Outcome:**
 The analysis helped the company enhance workforce planning and satisfaction by identifying areas for improvement in employee engagement and compensation policies, ultimately leading to better retention strategies.
 
@@ -94,12 +104,13 @@ The analysis helped the company enhance workforce planning and satisfaction by i
 - [**Certificate of Internship from AI Variant – 2024**](https://1drv.ms/b/s!AgDHJG8yRh16hE3jrOf4-rO7pKW-?e=xtezvE)
 - [**Career Essentials in Business Analysis by Microsoft and LinkedIn - 2024**](https://www.linkedin.com/learning/certificates/654b80f552c2c98f614c8f0a303168c7d898abd02fe94644cfc284660fb6a87d?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bbe8oWznIQIOFqrufsYGxJQ%3D%3D)
 - [**Data Analyst Certification from ExcelR – 2023**](https://1drv.ms/b/s!AgDHJG8yRh16hE53k_W1rbq0WXcF?e=obImGU)
-- Conference Paper: [**Intrusion Detection in IoT Systems Using Ensemble Machine Learning Techniques**](https://ieeexplore.ieee.org/document/10270505)
 
-  Published in: 2023 IEEE 4th Annual Flagship India Council International Subsections Conference.
+## Publications
+1. Bishal Laha; Debopriya Basu; Souvik Biswas; Pallabi Gupta; Bikash Sadhukhan. Intrusion Detection in IoT Systems Using Ensemble Machine Learning Techniques. DOI: [10.1109/INDISCON58499.2023.10270505](https://doi.org/10.1109/INDISCON58499.2023.10270505)
+
 
 ## Additional Information:
 - **Languages:** Bengali, Hindi, English, Japanese (beginner)
-- Contributed to the school community through volunteer work.
+- Contributed to the school community through **volunteer** work.
 - Demonstrated artistic proficiency by achieving good grades on the **Intermediate State Drawing Exam.**
-- Honed leadership & communication by securing **First Place** in **School/College Debate Competitions.**
+- Honed leadership & communication by securing **First Place** in **School and College Debate Competitions.**
